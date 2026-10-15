@@ -1,0 +1,15 @@
+<html>
+<body>
+
+<h1 style="border:2px solid Tomato;">Tomato</h1>
+<h1 style="border:2px dashed Orange;">Orange</h1>
+<h1 style="border:2px dotted Grey;"Grey</h1>
+<h1 style="background-color:violet">violet</h1>
+<h1 style="background-color:LightGrey;">LightGrey</h1>
+<h1 style="background-color:rgb(256,99,71);">Lightgray</h1>
+<h1 style="background-color:#FFAC48;">Hexadecimal</h1>
+<h1 style="background-color:hs1(2,80%,20%);">HSL</h1>
+
+</body>
+</html>
+
